@@ -1,7 +1,7 @@
 # apiauth0
 authentication with auth0 in react and express api
 
-frontend in react
+frontend in react which is in auth0frontend directory
 
 backend in express
 
